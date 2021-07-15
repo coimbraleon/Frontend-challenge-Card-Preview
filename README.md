@@ -1,4 +1,4 @@
-# Frontend-challenge---Card-Preview
+# Frontend-challenge-Card-Preview
 
 ## Card-Preview challenge
 
